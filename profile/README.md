@@ -1,17 +1,17 @@
 # Sohobyte 🌍
 
-Nos apasiona ayudar a pequeñas y medianas empresas a no quedarse atrás y mantenerse competitivas en un mundo en constante evolución.
+We're passionate about helping small and medium-sized businesses stay ahead and remain competitive in a constantly evolving world.
 
-Nos especializamos en modernizar eprendimientos y empresas mediante la implementación de soluciones tecnológicas que optimizan procesos, automatizan tareas y mejoran la eficiencia general. Además, ofrecemos una amplia gama de servicios para llevar a las empresas al siguiente nivel:
+We specialize in modernizing ventures and companies through the implementation of technological solutions that optimize processes, automate tasks, and improve overall efficiency. In addition, we offer a wide range of services to take businesses to the next level:
 
-🚀 Nuestros servicios:
+🚀 Our services:
 
-- 🌐 Diseño y desarrollo de páginas web
-- 🤖 Implementación de chatbots para mejorar la atención al cliente
-- 📊 Automatización de procesos y tareas
-- 💻 Transformación digital personalizada
-- 📈 Optimización de la presencia en línea
+🌐 Website design and development
+🤖 Chatbot implementation to improve customer support
+📊 Process and task automation
+💻 Personalized digital transformation
+📈 Online presence optimization
 
-Ayudamos a que cada empresa aproveche al máximo la tecnología disponible, mejorando su productividad y visibilidad, para que puedan crecer y destacarse en su industria.
+We help every business make the most of available technology, enhancing productivity and visibility so they can grow and stand out in their industry.
 
-💡 En SohoByte, transformamos tus desafíos en oportunidades tecnológicas que te permiten alcanzar tu máximo potencial.
+💡 At SohoByte, we turn your challenges into technological opportunities that help you reach your full potential.
